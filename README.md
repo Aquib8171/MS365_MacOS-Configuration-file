@@ -1,4 +1,4 @@
-1.	Navigate to Intune Admin Center → Devices → macOS → Configuration → + Create profile.
+1.	Navigate to Intune Admin Center → Devices → macOS → Configuration → + Create policy
 2. Choose the profile type: Custom (for .mobileconfig uploads) or Settings Catalog (for granular settings).
 3. For Custom profiles: Provide a name and description, and upload the required .mobileconfig file.
 4. Assign the profile to the appropriate device/user groups.
